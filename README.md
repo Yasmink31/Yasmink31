@@ -40,7 +40,7 @@ During my time at work, I have self-learned SQL for basic data analysis purposes
 
 Creating reports and dashboards connected to live data. Involved alot of DAX calculations!
 
-##### Python for data sciencd (SciKit learn, pandas, matplot, seaborn etc)
+##### Python for data science (SciKit learn, pandas, matplot, seaborn etc)
 
 ##### Machine learning 
 
