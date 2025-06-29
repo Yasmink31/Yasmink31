@@ -1,9 +1,4 @@
 
-# **Table of content:**
-- [**A little about me**](#item-one)
-
-&emsp; 
-
 <!-- headings -->
 <a id="item-one"></a>
 ## _**A little about me**_ :nerd_face:
