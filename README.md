@@ -9,13 +9,12 @@
 
  
 
-<span style="color:purple; font-size: 24px;">**Name:**</span> Yasmin
+
+
 
  
 
- 
-
-<span style="color:purple;font-size: 24px;">**Current profession:**</span> Diagnostics Engineer
+<span style="color:purple;font-size: 24px;">**Current profession:**</span> Data science specialist
 
  
 
