@@ -28,23 +28,18 @@
  &emsp;
  
 
-```
-Skills I have:
-```
 
-#####  ![SQL](https://windows-cdn.softpedia.com/screenshots/ico/MySQL-4.gif) SQL basics   
+##### Skills I have:
 
-During my time at work, I have self-learned SQL for basic data analysis purposes. I find it easier than Excel!
+######  SQL basics   
 
-#####  ![PowerBI](https://windows-cdn.softpedia.com/screenshots/ico/Microsoft-Power-BI-Desktop.gif ) PowerBI  and Tableau
+######  PowerBI  and Tableau
 
-Creating reports and dashboards connected to live data. Involved alot of DAX calculations!
+######  Python for data science (SciKit learn, pandas, matplot, seaborn etc)
 
-##### Python for data science (SciKit learn, pandas, matplot, seaborn etc)
+######  Machine learning 
 
-##### Machine learning 
-
-##### Product Management 
+######  Product Management 
 
 
 
