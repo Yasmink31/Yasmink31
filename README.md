@@ -36,7 +36,7 @@ Skills I have:
 
 During my time at work, I have self-learned SQL for basic data analysis purposes. I find it easier than Excel!
 
-#####  ![PowerBI](https://windows-cdn.softpedia.com/screenshots/ico/Microsoft-Power-BI-Desktop.gif ) PowerBI  
+#####  ![PowerBI](https://windows-cdn.softpedia.com/screenshots/ico/Microsoft-Power-BI-Desktop.gif ) PowerBI  and Tableau
 
 Creating reports and dashboards connected to live data. Involved alot of DAX calculations!
 
@@ -44,7 +44,7 @@ Creating reports and dashboards connected to live data. Involved alot of DAX cal
 
 ##### Machine learning 
 
-##### product management 
+##### Product Management 
 
 
 
